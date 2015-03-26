@@ -1,5 +1,12 @@
-/node_modules
-/bower_components
-/build
-npm-debug.log
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Bower directory
+bower_components
+
+# Compiled files
+build
 
